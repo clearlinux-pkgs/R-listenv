@@ -4,7 +4,7 @@
 #
 Name     : R-listenv
 Version  : 0.9.0
-Release  : 41
+Release  : 42
 URL      : https://cran.r-project.org/src/contrib/listenv_0.9.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/listenv_0.9.0.tar.gz
 Summary  : Environments Behaving (Almost) as Lists
